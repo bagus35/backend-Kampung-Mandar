@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CreateMessageOptions.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="CreateQueueOptions.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="GetQueueMetadataResult.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="ListMessagesOptions.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="ListMessagesResult.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="ListQueuesOptions.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="ListQueuesResult.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="MicrosoftAzureQueueMessage.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="PeekMessagesOptions.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="PeekMessagesResult.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="QueueMessage.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="Queue.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="QueueServiceOptions.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+<file name="UpdateMessageResult.php" server="ftp.wajabae.com" local="132328153790000000" remote="132370438200000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="composer.json" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="ContainerAwareEventDispatcher.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="Event.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="EventDispatcher.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="EventDispatcherInterface.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="EventSubscriberInterface.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="GenericEvent.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="ImmutableEventDispatcher.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="LICENSE" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="phpunit.xml.dist" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="README.md" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdapterInterface.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="ConfigAwareTrait.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Config.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Directory.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Exception.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="File.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="FileExistsException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Filesystem.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="FileNotFoundException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="FilesystemInterface.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Handler.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="FilesystemNotFoundException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="MountManager.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="NotSupportedException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="PluginInterface.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="ReadInterface.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="RootViolationException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="SafeStorage.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="UnreadableFileException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Util.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+</dwsync>

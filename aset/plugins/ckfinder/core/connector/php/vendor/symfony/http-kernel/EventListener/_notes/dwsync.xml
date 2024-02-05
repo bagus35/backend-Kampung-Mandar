@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddRequestFormatsListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="DumpListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="DebugHandlersListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="ErrorsLoggerListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="ExceptionListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="EsiListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="FragmentListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="LocaleListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="ProfilerListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="ResponseListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="SaveSessionListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="RouterListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="SessionListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="SurrogateListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="StreamedResponseListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="TestSessionListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="TranslatorListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="ValidateRequestListener.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+</dwsync>

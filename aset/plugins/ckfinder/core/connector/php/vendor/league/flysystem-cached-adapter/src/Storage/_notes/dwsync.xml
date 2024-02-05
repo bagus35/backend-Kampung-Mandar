@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCache.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Adapter.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Memcached.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Memory.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Noop.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="PhpRedis.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Predis.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Psr6Cache.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+<file name="Stash.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437600000000" Dst="0" />
+</dwsync>

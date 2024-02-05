@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
+https://www.dropbox.com/s/3kk2xdo8yeplxia/frozen_2_480.mp4?dl=1
+#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p"
+https://www.dropbox.com/s/l51zwqk4zp2dj7f/frozen_2_720.mp4?dl=1
+#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p"
+https://www.dropbox.com/s/byojrzksl2t1um6/frozen_2_1080.mp4?dl=1

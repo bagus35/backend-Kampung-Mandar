@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AmbiguousSuccessParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="BatchDelete.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="ApplyChecksumMiddleware.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="BucketEndpointMiddleware.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="GetBucketLocationParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="MultipartCopy.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="MultipartUploader.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="MultipartUploadingTrait.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="ObjectCopier.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="ObjectUploader.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="PermanentRedirectMiddleware.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="PostObject.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="PostObjectV4.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="PutObjectUrlMiddleware.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="RetryableMalformedResponseParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="S3Client.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="S3ClientInterface.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="S3EndpointMiddleware.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="S3ClientTrait.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="S3MultiRegionClient.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="S3UriParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="SSECMiddleware.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="StreamWrapper.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+<file name="Transfer.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370435800000000" Dst="0" />
+</dwsync>

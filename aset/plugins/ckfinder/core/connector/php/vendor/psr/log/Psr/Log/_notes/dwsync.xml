@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="LoggerAwareInterface.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="LoggerAwareTrait.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="LoggerTrait.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="LoggerInterface.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="LogLevel.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+<file name="NullLogger.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370438800000000" Dst="0" />
+</dwsync>

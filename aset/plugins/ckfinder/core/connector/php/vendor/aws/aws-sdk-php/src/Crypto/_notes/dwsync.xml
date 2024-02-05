@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCryptoClient.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="AesDecryptingStream.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="AesEncryptingStream.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="AesGcmDecryptingStream.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="AesGcmEncryptingStream.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="AesStreamInterface.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="DecryptionTrait.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="EncryptionTrait.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="KmsMaterialsProvider.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="MaterialsProvider.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="MetadataEnvelope.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+<file name="MetadataStrategyInterface.php" server="ftp.wajabae.com" local="132328153860000000" remote="132370428000000000" Dst="0" />
+</dwsync>

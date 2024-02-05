@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConfigDataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="DataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="DataCollectorInterface.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="DumpDataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="EventDataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="LateDataCollectorInterface.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="ExceptionDataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="LoggerDataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="MemoryDataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="RequestDataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="RouterDataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="TimeDataCollector.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+</dwsync>

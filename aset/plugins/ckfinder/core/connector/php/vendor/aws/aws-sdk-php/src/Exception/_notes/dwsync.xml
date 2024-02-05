@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AwsException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+<file name="CredentialsException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+<file name="CouldNotCreateChecksumException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+<file name="EventStreamDataException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+<file name="InvalidJsonException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+<file name="MultipartUploadException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+<file name="UnresolvedApiException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+<file name="IncalculablePayloadException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+<file name="UnresolvedEndpointException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+<file name="UnresolvedSignatureException.php" server="ftp.wajabae.com" local="132328153850000000" remote="132370433400000000" Dst="0" />
+</dwsync>

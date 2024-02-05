@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="BadRequestHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="ConflictHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="FatalErrorException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="FlattenException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="GoneHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="HttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="HttpExceptionInterface.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="LengthRequiredHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="MethodNotAllowedHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="NotAcceptableHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="NotFoundHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="PreconditionFailedHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="PreconditionRequiredHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="ServiceUnavailableHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="TooManyRequestsHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="UnprocessableEntityHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="UnauthorizedHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="UnsupportedMediaTypeHttpException.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+</dwsync>

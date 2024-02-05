@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="AlreadyExistsException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="CKFinderException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="FileNotFoundException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="FolderNotFoundException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="InvalidCommandException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="InvalidConfigException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="InvalidExtensionException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="InvalidCsrfTokenException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="InvalidNameException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="InvalidPluginException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="InvalidRequestException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="InvalidResourceTypeException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="MethodNotAllowedException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="InvalidUploadException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="UnauthorizedException.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+</dwsync>

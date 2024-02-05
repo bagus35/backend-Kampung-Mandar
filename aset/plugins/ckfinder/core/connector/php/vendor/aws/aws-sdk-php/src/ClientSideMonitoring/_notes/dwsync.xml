@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMonitoringMiddleware.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="ApiCallMonitoringMiddleware.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="ApiCallAttemptMonitoringMiddleware.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="Configuration.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="ConfigurationProvider.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="ConfigurationInterface.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="MonitoringMiddlewareInterface.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandAbstract.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="CreateFolder.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="CopyFiles.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="DeleteFiles.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="DownloadFile.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="DeleteFolder.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="FileUpload.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="GetFiles.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="GetFileUrl.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="GetFolders.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="ImageEdit.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="GetResizedImages.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="ImageInfo.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="ImagePreview.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="ImageResize.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="Init.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="MoveFiles.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="Operation.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="Proxy.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="QuickUpload.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="RenameFile.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="RenameFolder.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="SaveImage.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+<file name="Thumbnail.php" server="ftp.wajabae.com" local="132328153870000000" remote="132370437000000000" Dst="0" />
+</dwsync>

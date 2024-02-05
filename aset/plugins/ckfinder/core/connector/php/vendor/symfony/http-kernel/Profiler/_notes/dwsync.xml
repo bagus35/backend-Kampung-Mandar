@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseMemcacheProfilerStorage.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="FileProfilerStorage.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="MemcachedProfilerStorage.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="MemcacheProfilerStorage.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="MongoDbProfilerStorage.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="PdoProfilerStorage.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="MysqlProfilerStorage.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="Profile.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="Profiler.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="ProfilerStorageInterface.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="RedisProfilerStorage.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+<file name="SqliteProfilerStorage.php" server="ftp.wajabae.com" local="132328153880000000" remote="132370439400000000" Dst="0" />
+</dwsync>

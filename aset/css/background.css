@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+.bg-pink{
+	background:#C80082;
+	color:#fff;
+}
+.bg-kuning{
+	background-color: #FFB600 !important;
+	color:#000;
+}
+.bg-biru{
+	background-color:#17a2b8 !important;
+	color:#fff !important;
+}
+.bg-biru-muda{
+	background-color:#B4E4F5 !important;
+	color: rgba(104,104,104,1.00);
+}
+.bg-merah{
+	background-color:#E70242 !important;
+	color:#fff;
+}
+.bg-merah-muda{
+	background-color:#FF35F7!important;
+	color:#fff;
+}
+.bg-orange{
+	background:#f39c12;
+	color:#fff;
+}
+.bg-hijau{
+ background: rgb(105,145,43);
+background: linear-gradient(45deg, rgba(105,145,43,1) 0%, rgba(105,145,43,1) 35%, rgba(124,164,60,1) 71%, rgba(211,250,124,1) 100%); 
+	color:#fff;
+}
+.text-merah{
+	color: rgba(211,26,60,1.00) !important;
+}
+.text-hijau {
+	color: rgba(39,147,92,1.00);
+}
+.bg-putih{
+	background: #ffffff;
+	color: rgba(104,104,104,1.00);
+}
+.bg-netral{
+	background-color: transparent !important;
+	color: rgba(104,104,104,1.00);
+}
+.text-biru{
+    color:#005FF1;
+}
+.text-disabled{
+    color: #CCCCCC;
+}
+.bg-hijau-td{
+    background: #C2D586;
+    color: #000;
+}
+
+.bg-biru-td{
+    background:#A6C4F9;
+    color: #000;
+}
+
+.bg-kuning-td{
+    background:#FFF4BD;
+    color: #000;
+}
+
+.bg-ungu-td{
+    background:#EBA8F4;
+    color: #000;
+}
+
+.bg-merah-td{
+    background:#FF9191;
+    color: #000;
+}
+.bg-abu-td{
+    background:#D4D4D4;
+    color: #000;
+}
+
+.bg-abu-abu{
+    background:#D4D4D4;
+    color: #000;
+}
+
+.bg-hitam{
+	background: #191919;
+	color: #ffffff;
+}
+
+.bg-abu-abu-modal{
+    background:#F8F8F8;
+    color:#313131;
+}
+.bg-putih{
+	 background:#FFFFFF;
+    color:#313131;
+}
+.bg-biru-2{
+	background: #3A46C4;
+	color: #fff;
+}
+.bg-ungu{
+	background: #84008C;
+	color: #fff;
+}
+
+
+
+.bg-abu-abu{
+	background:#B0B0B0;
+}
+
+.bg-kuning-ind{
+	background:#FCFFE0;
+	color: #000;
+}
+
+.bg-merah-ind{
+	background:#FFE9F1;
+	color: #000;
+}
+
+.bg-gambar-biru{
+	  background: url("../img/bg/blue.jpg");
+	    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+.bg-gambar-hijau{
+	  background: url("../img/bg/green.jpg");
+	    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: top center;
+}
+.bg-gambar-kuning{
+	  background: url("../img/bg/yellow.jpg");
+	    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: top center;
+}
+
+.bg-gambar-merah{
+	  background: url("../img/bg/red.jpg");
+	   background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
+	
+}
+
+.bg-gambar-pink{
+	  background: url("../img/bg/pink.jpg");
+	    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: bottom center;  
+}
+
+
+
+
+.bg-gambar-putih{
+	  background: url("../img/bg/white.jpg");
+	    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: top center;  
+}
+.bg-gambar-hitam{
+	  background: url("../img/bg/black.jpg");
+	    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: top center;  
+}
+
+.bg-gradient-biru{
+ background: rgb(1,83,153);
+background: linear-gradient(43deg, rgba(1,83,153,1) 0%, rgba(40,136,201,1) 35%, rgba(97,172,223,1) 61%, rgba(97,172,223,1) 100%); 
+}
+
+.bg-sidebar-merah{
+	 background: rgb(175,27,15);
+background: linear-gradient(43deg, rgba(175,27,15,1) 0%, rgba(245,30,28,1) 35%, rgba(255,53,49,1) 61%, rgba(255,56,53,1) 100%); 
+}

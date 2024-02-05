@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="Crc32ValidatingParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="AbstractRestParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="DecodingEventStreamIterator.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="EventParsingIterator.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="JsonParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="MetadataParserTrait.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="JsonRpcParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="PayloadParserTrait.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="RestJsonParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="QueryParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="RestXmlParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+<file name="XmlParser.php" server="ftp.wajabae.com" local="132328153800000000" remote="132370426800000000" Dst="0" />
+</dwsync>
